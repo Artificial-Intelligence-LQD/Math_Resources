@@ -11,6 +11,7 @@
 - Link to:
   - [Book Homepage](https://mml-book.github.io/)
   - [Companion notebooks](https://github.com/vbartle/MML-Companion) with code along (Chapter 2-7)
+  - Another self-study [notebooks](https://github.com/ilmoi/MML-Book) with playground python code and solution of chapters 2-7
   - [Reading group video playlists](https://www.youtube.com/watch?v=nOxQ1vRt_p0&list=PLaPdEEY26UXygpV-Cxch8Xkpl7IbFKBvK) from Machine Learning Tokyo
 
 **Part I: Mathematical Foundations**
