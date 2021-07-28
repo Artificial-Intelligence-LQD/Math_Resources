@@ -4,6 +4,7 @@
 
 - [Books](#books)
 - [Videos](#videos)
+- [Some guidelines in study group](#some-guidelines-in-study-group)
 
 # Books
 
@@ -73,6 +74,24 @@ An interactive deep learning book with code, math, and discussions, based on the
 - Playlists:
   - [Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
   - [Multivariate Calculus](https://www.youtube.com/watch?v=cWZLPv4ZJhE&list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+
+# Some guidelines in study group
+
+To make everyone get most out of a study group, we should maintain some flexible principles
+
+- Every meeting can last 1 hour for presenting and 30 minutes for discussing
+  (time is flexible due to topic and other conditions)
+- Presenters can talk with any format like slide, code-along notebooks,
+  book-along viewing 
+- Set a topic schedule and a/some group presenters for each meeting in advance. Everyone can choose their own interested topic or randomly assigned.
+- Sometimes you will get questions on technical stuff or math that you don’t know the answer to. 
+Just say that you don’t know or you’re not sure, it’s normal and totally fine. Maybe even ask the audience. 
+Typically someone knows the answer or at least something that can help. This is a group. 
+So things we don’t know we’ll figure out together.
+- We always encourage participants to ask questions because sometimes people are too shy to speak up
+- Convince people that it’s okay to ask any question related to the meeting; 
+there are no dumb questions. The idea of the reading group is for everybody to 
+learn something and have their questions answered
 
 # Credits
 
