@@ -33,9 +33,17 @@
 11. Density Estimation with Gaussian Mixture Models
 12. Classification with Support Vector Machines
 
-[![ml_math](img/ml_math.png)](https://mml-book.github.io/)
 
-[![ml_math_sessions](img/ml_math_sessions.png)](https://mml-book.github.io/)
+[<p align="center"><img src="https://github.com/Artificial-Intelligence-LQD/Math_Resources/blob/master/img/ml_math.png?raw=true" width="800"></p>](https://mml-book.github.io/)
+[<p align="center"><img src="https://github.com/Artificial-Intelligence-LQD/Math_Resources/blob/master/img/ml_math_sessions.png?raw=true" width="800" height="1000"></p>](https://mml-book.github.io/)
+
+## Dive into Deep Learning
+
+An interactive deep learning book with code, math, and discussions, based on the NumPy interface by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola. With 900 pages, this seems to be one of the most comprehensive one-stop resources that goes from Linear Neural Networks and Multilayer Perceptrons all the way to modern Deep Learning architectures including Attention Mechanisms and Optimization Algorithms – giving you all three: Theory, Math & Code.
+
+[<p align="center"><img src="https://github.com/Artificial-Intelligence-LQD/Math_Resources/blob/master/img/d2lai.png?raw=true" width="800"></p>](http://d2l.ai/)
+
+[<p align="center"><img src="https://github.com/Artificial-Intelligence-LQD/Math_Resources/blob/master/img/d2lai.gif?raw=true" width="600"></p>](http://d2l.ai/)
 
 
 # Videos
@@ -48,7 +56,7 @@
   - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-[![3blue1brown](img/3blue1brown.png)](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
+[<p align="center"><img src="https://github.com/Artificial-Intelligence-LQD/Math_Resources/blob/master/img/3blue1brown.png?raw=true" width="800"></p>](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
 
 ## The classic: Gilbert Strang MIT lectures on Linear Algebra
 
@@ -58,7 +66,7 @@
 - **Course description:** "Linear algebra concepts are key for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization–and above all a full explanation of deep learning."
 - **Format:** [Video lectures](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
-![gilbert_strang](img/gilbert_strang.png)
+[<p align="center"><img src="https://github.com/Artificial-Intelligence-LQD/Math_Resources/blob/master/img/gilbert_strang.png?raw=true" width="800"></p>]()
 
 ## Mathematics for Machine Learning offered by Imperial College London university
 
